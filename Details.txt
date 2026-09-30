@@ -1,0 +1,15 @@
+Problem ID:-
+Problem Title:-Students at Risk of Poor Academic
+Full Name:-RACHARLA SRINITH
+Intern ID:-LD-1786706168360
+Registered Email ID:-racharlasrinith@gmail.com
+
+PROBLEM STATEMENT
+
+Title: Early Prediction of Students at Risk of Poor Academic Performance Using Machine Learning
+
+Educational institutions often identify students with poor academic performance only after examinations or final results are available. This delays intervention and reduces the opportunity to provide timely academic support.
+
+The proposed project aims to develop a machine-learning-based early-warning system that predicts whether a student is “At Risk” or “Not At Risk” of poor academic performance using measurable factors such as attendance, previous academic marks, assignment performance, internal marks, study hours, previous failures, absences, assignment completion, class participation, parental support, internet access, extracurricular activities, and transportation mode.
+
+The project will involve data preparation, exploratory data analysis, feature engineering, model development, comparison of multiple machine-learning algorithms, failure/error analysis,  and final model evaluation. The selected model will then be integrated into a reproducible and usable application capable of providing an early risk prediction for individual students.
